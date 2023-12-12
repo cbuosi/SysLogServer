@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CONFIG>
+	
+	<PORTA valor="514" />
+
+	<LOG_ARQUIVO valor="c:\temp\log.txt" />
+
+	<LOG_BANCO	 valor="MSSQL" obs="MSSQL ou MYSQL ou vazio" />
+	<SERVIDOR    valor="SQL5080.site4now.net" />
+	<BANCO       valor="DB_A673A8_PEAT2" />
+	<USUARIO     valor="DB_A673A8_PEAT2_admin" />
+	<SENHA       valor="MUZD6GkBkP3Ye90vvoxdMg==" />
+
+
+</CONFIG>
